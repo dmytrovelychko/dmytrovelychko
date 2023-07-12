@@ -1,6 +1,5 @@
 ### Main tech stack
 - Lagnuages: JavaScript, TypeScript
-- Platforms: Node.js
 - Frameworks: Nest.js, Koa.js, Express.js
 - Tests: Mocha, Chai, Proxyquire
 - Data storages: Postgres, Mysql, Redis, Elasticsearch, Sqlite
