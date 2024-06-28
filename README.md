@@ -2,8 +2,8 @@
 - Lagnuages: JavaScript, TypeScript
 - Frameworks: Nest.js, Koa.js, Express.js
 - Tests: Mocha, Chai, Proxyquire
-- Data storages: Postgres, Mysql, Redis, Elasticsearch, Sqlite
-- Event handling: Kafka, Rabbitmq
+- Data storages: Postgres, Mysql, Redis, Elasticsearch, Sqlite, Clickhouse
+- Event handling tools: Kafka, Rabbitmq
 
 
 ### Tools
