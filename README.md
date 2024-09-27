@@ -1,6 +1,6 @@
 ### Main tech stack
 - Lagnuages: JavaScript, TypeScript
-- Frameworks: Nest.js, Koa.js, Express.js
+- Frameworks: Nest.js, Koa.js
 - Tests: Mocha, Chai, Proxyquire
 - Data storages: Postgres, Mysql, Redis, Elasticsearch, Sqlite, Clickhouse
 - Event handling tools: Kafka, Rabbitmq
