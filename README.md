@@ -14,7 +14,7 @@
 - Env: Docker
 - Search: Algolia
 
-### Additional interests:
+### Additional interests
 - Data science, ML, python
 
 
