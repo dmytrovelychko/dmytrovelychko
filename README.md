@@ -3,13 +3,12 @@
 - Frameworks: Nest.js, Koa.js
 - Tests: Mocha, Chai, Proxyquire
 - Data storages: Postgres, Mysql, Redis, Elasticsearch, Sqlite, Clickhouse
-- Event handling tools: Kafka, Rabbitmq
-
 
 ### Tools
+- Pub/Sub messaging systems: Kafka, Rabbitmq
 - Monitoring: Grafana, Prometheus, Datadog 
 - Infra: Ansible, Terraform
-- CI/CD: CircleCi, Jenkins
+- CI/CD: Github Actions, CircleCI, Jenkins
 - Clouds: DigitalOcean, AWS
 - Env: Docker
 - Search: Algolia
